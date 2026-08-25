@@ -1,0 +1,46 @@
+✅ ndarray
+✅ shape
+✅ ndim
+✅ size
+✅ dtype
+
+✅ Indexing
+✅ Slicing
+✅ 2D Indexing
+
+✅ Vectorization
+
+✅ zeros
+✅ ones
+✅ full
+✅ arange
+✅ linspace
+
+✅ reshape
+✅ flatten
+
+✅ random
+✅ seed
+
+✅ sum
+✅ mean
+✅ min
+✅ max
+✅ argmax
+✅ argmin
+✅ std
+✅ var
+
+✅ axis
+
+✅ Boolean Indexing
+
+✅ Broadcasting
+
+✅ unique
+✅ sort
+✅ where
+✅ count_nonzero
+✅ any
+✅ all
+✅ clip

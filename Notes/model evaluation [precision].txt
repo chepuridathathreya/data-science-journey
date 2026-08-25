@@ -1,0 +1,5 @@
+model evaluation [precision]:
+TP → Predicted YES, actually YES
+TN → Predicted NO, actually NO
+FP → Predicted YES, actually NO
+FN → Predicted NO, actually YES

@@ -1,0 +1,152 @@
+PANDAS
+│
+├── Series
+├── DataFrame
+├── loc / iloc
+├── Filtering
+├── Columns
+├── Aggregation
+├── Sorting
+├── CSV
+└── Cleaning
+        ↓
+EDA — Exploratory Data Analysis
+        ↓
+MATPLOTLIB
+│
+├── Line
+├── Bar
+├── Scatter
+├── Histogram
+├── Subplots
+└── Formatting
+        ↓
+SEABORN
+│
+├── Scatterplot
+├── Histogram
+├── Boxplot
+├── Countplot
+└── Heatmap
+        ↓
+STATISTICS
+│
+├── Mean
+├── Median
+├── Mode
+├── Range
+├── Variance
+├── Standard Deviation
+├── Population / Sample
+├── Percentiles
+├── Quartiles
+├── IQR
+├── Outliers
+├── Skewness
+├── Covariance
+└── Correlation
+        ↓
+PROBABILITY
+│
+├── Basic Probability
+├── Events
+├── Sample Space
+├── Addition Rule
+├── Multiplication Rule
+├── Independent Events
+├── Dependent Events
+├── Conditional Probability
+├── Bayes' Theorem
+├── Random Variables
+├── Expected Value
+├── Probability Distributions
+│   ├── Binomial
+│   └── Normal Distribution
+└── Basic Combinations / Permutations
+        ↓
+MACHINE LEARNING 🔥
+│
+├── ML Fundamentals
+├── Supervised / Unsupervised Learning
+├── Regression
+├── Classification
+├── Train / Test Split
+├── Features / Target
+├── Linear Regression
+├── Logistic Regression
+├── KNN
+├── Decision Trees
+├── Random Forest
+├── Clustering
+├── Model Evaluation
+│   ├── MAE / MSE / RMSE
+│   ├── R²
+│   ├── Accuracy
+│   ├── Precision
+│   ├── Recall
+│   └── F1 Score
+├── Overfitting / Underfitting
+├── Cross-Validation
+├── Feature Scaling
+└── Feature Engineering
+        ↓
+GENERATIVE AI
+│
+├── Neural Network Basics
+├── Deep Learning Basics
+├── Transformers
+├── LLM Fundamentals
+├── Prompting
+└── Embeddings
+        ↓
+LLM / AI APPLICATIONS
+│
+├── APIs
+├── FastAPI
+├── LLM API Integration
+├── Vector Databases
+├── RAG
+└── AI Applications
+        ↓
+AI AGENTS
+│
+├── Tools
+├── Function Calling
+├── Agent Memory
+├── Planning
+├── Multi-step Workflows
+└── Agentic AI 🔥
+
+
+
+__________________________________________________________________________________________________________________________________
+----------------------------------------------------------------------------------------------------------------------------------
+
+MACHINE LEARNING
+│
+├── SUPERVISED LEARNING
+│   │
+│   ├── X = Features
+│   ├── y = Target
+│   ├── Train/Test Split
+│   │
+│   ├── REGRESSION
+│   │   └── Linear Regression
+│   │       └── Predict a NUMBER
+│   │
+│   └── CLASSIFICATION
+│       ├── Logistic Regression
+│       │   └── Probability → Class
+│       │
+│       ├── KNN
+│       │   └── Neighbors vote
+│       │
+│       ├── Decision Tree
+│       │   └── Questions → Branches → Answer
+│       │
+│       └── Random Forest
+│           └── Many Trees → Vote
+│
+└── UNSUPERVISED LEARNING
+    │
+    └── Clustering  
